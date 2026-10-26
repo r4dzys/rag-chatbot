@@ -1,12 +1,3 @@
----
-title: RAG Document Q&A
-emoji: 📚
-colorFrom: blue
-colorTo: indigo
-sdk: docker
-pinned: false
----
-
 # RAG Document Q&A System
 
 A production-ready Retrieval Augmented Generation (RAG) application that allows users to upload documents and ask questions based on their content.
