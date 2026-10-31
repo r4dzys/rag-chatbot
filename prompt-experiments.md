@@ -1,8 +1,10 @@
 # Prompt Experiments - Day 9
 
 ## Prompt 1 - ogólny
+
 ###**System prompt:** 
 "Jesteś pomocnym asystentem IT."
+
 ###**Odpowiedź modelu:**
 User: Jak nazywa się technologia która łączy LLM z własnymi dokumentami?
 Model: Technologia, która łączy LLM (Large Language Model) z Twoimi własnymi dokumentami, nazywa się **wbudowaniem (embedding)** lub **zestawieniem dokumentów**. 
