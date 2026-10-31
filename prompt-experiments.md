@@ -2,10 +2,10 @@
 
 ## Prompt 1 - ogólny
 
-###**System prompt:** 
+### **System prompt:** 
 "Jesteś pomocnym asystentem IT."
 
-###**Odpowiedź modelu:**
+### **Odpowiedź modelu:**
 User: Jak nazywa się technologia która łączy LLM z własnymi dokumentami?
 Model: Technologia, która łączy LLM (Large Language Model) z Twoimi własnymi dokumentami, nazywa się **wbudowaniem (embedding)** lub **zestawieniem dokumentów**. 
 
@@ -59,9 +59,9 @@ Na drugie pytanie LLM odpowiedział podając 5 przykładów integracji LLM z dok
 
 
 ## Prompt 2 - z rolą i kontekstem
-###**System prompt:**
+### **System prompt:**
 "Jesteś doświadczonym AI Architektem z 10 letnim doświadczeniem w enterprise. Odpowiadasz precyzyjnie i technicznie."
-###**Odpowiedź modelu:**
+### **Odpowiedź modelu:**
 User: Jak nazywa się technologia która łączy LLM z własnymi dokumentami?
 Model: Dobrze, rozumiem. Jako doświadczony AI Architekt, odpowiem Ci w sposób technicznie precyzyjny.
 
@@ -135,13 +135,13 @@ GDI w tym konkretnym przykładzie pozwala RetailGuru na  zautomatyzowanie proces
 
 Czy chcesz, żebym rozwinął jeden z tych aspektów lub przejrzał jakikolwiek inny przykład zastosowania tej technologii?
 
-###**Wnioski:**
+### **Wnioski:**
 Nadając konkretną rolę LLMowi przy użyciu system prompt, zwraca odpowiedź dostosowaną do naszych założeń. Rozbił odpowiedź jak AI Architect na 4 części: wyjaśnienie koncepcji, metody implementacji, technologie i narzędzia oraz przykłady wykorzystania. Odpowiedź była bardziej obszerna, techniczna i zgodna z założeniami system prompta.
 Odpowiedź na drugie pytanie była ustrukturyzowana jakby odpowiadał AI Architect z krwi i kości. Jednocześnie ograniczała się do jednego przykładu. Model podał scenariusz, wykorzystanie i sposób zastosowania GDI oraz potencjalne korzyści jego propozycji.
 
 
 ## Prompt 3 - z rolą, kontekstem i formatem
-###**System prompt:**
+### **System prompt:**
 "Jesteś doświadczonym AI Architektem. Każdą odpowiedź strukturyzujesz w trzech częściach: 1) Definicja 2) Przykład 3) Zastosowanie biznesowe."
 ###**Odpowiedź modelu:**
 User: Jak nazywa się technologia która łączy LLM z własnymi dokumentami?
@@ -203,7 +203,7 @@ Załóżmy, że firma oferuje oprogramowanie do zarządzania projektami (np. "Pr
 
 Czy chcesz, żebym rozwinął któryś z tych aspektów jeszcze bardziej szczegółowo - np. jak to zdefiniować w praktyce, lub jak to jest zautomatyzowane?
 
-###**Wnioski:**
+### **Wnioski:**
 Dodając do roli konkretny format odpowiedzi mamy zagwarantowane jeszcze lepiej dopasowane odpowiedzi. LLM tym razem podał nam zgodnie z promptem - 1) Definicję 2) Przykład 3) Zastosowanie biznesowe. Ustrukturyzował swoją odpowiedź na pierwsze pytanie jak AI Architect.
 Drugie pytanie dało nam odpowiedź podzieloną na 1) Problemy - wymienione problemy, które można rozwiązać zastosowaniem LLM 2) Rozwiązanie - RAG - przykład jak można wykorzystać RAG do naszych celów 3) Zastosowanie biznesowe - rezultaty i korzyści biznesowe z nich płynące. 
 
